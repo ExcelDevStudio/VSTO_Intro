@@ -1,0 +1,13 @@
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\bin\Debug\AddInObjectModelDemo1.dll
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\bin\Debug\AddInObjectModelDemo1.pdb
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\bin\Debug\AddInObjectModelDemo1.dll.manifest
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\bin\Debug\AddInObjectModelDemo1.vsto
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\obj\Debug\AddInObjectModelDemo1.csproj.AssemblyReference.cache
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\obj\Debug\AddInObjectModelDemo1.Properties.Resources.resources
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\obj\Debug\AddInObjectModelDemo1.Ribbon1.resources
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\obj\Debug\AddInObjectModelDemo1.csproj.GenerateResource.cache
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\obj\Debug\AddInObjectModelDemo1.csproj.CoreCompileInputs.cache
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\obj\Debug\AddInObjectModelDemo1.csproj.CopyComplete
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\obj\Debug\AddInObjectModelDemo1.dll
+C:\ExcelDevStudio\repos\AddInObjectModelDemo1\AddInObjectModelDemo1\obj\Debug\AddInObjectModelDemo1.pdb
