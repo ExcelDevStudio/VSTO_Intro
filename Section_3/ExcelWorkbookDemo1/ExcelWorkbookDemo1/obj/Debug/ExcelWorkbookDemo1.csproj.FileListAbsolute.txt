@@ -1,0 +1,15 @@
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\bin\Debug\ExcelWorkbookDemo1.dll
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\bin\Debug\ExcelWorkbookDemo1.pdb
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\bin\Debug\ExcelWorkbookDemo1.dll.manifest
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\bin\Debug\ExcelWorkbookDemo1.vsto
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\bin\Debug\ExcelWorkbookDemo1.xlsx
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\obj\Debug\ExcelWorkbookDemo1.csproj.AssemblyReference.cache
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\obj\Debug\ExcelWorkbookDemo1.Properties.Resources.resources
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\obj\Debug\ExcelWorkbookDemo1.csproj.GenerateResource.cache
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\obj\Debug\ExcelWorkbookDemo1.csproj.CoreCompileInputs.cache
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\obj\Debug\ExcelWorkbookDemo1.csproj.CopyComplete
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\obj\Debug\ExcelWorkbookDemo1.dll
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\obj\Debug\ExcelWorkbookDemo1.pdb
+C:\ExcelDevStudio\repos\ExcelWorkbookDemo1\ExcelWorkbookDemo1\obj\Debug\ExcelWorkbookDemo1.Sheet1.resources
