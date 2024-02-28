@@ -1,7 +1,7 @@
 ![Excel Dev Studio Logo](./ExcelDevStudioLogo.jpg)
 
 # Microsoft Excel VSTO Introduction
-Files from Youtube Introductory course on getting started with VSTO for Microsoft Excel by Excel Dev Studio. VSTO stands for Visual Studio Tools for office.  With VSTO we can add new features to extend what Excel can already do.
+Files from Youtube Introductory course on getting started with VSTO for Microsoft Excel by [Excel Dev Studio](https://www.youtube.com/@exceldevstudio). VSTO stands for Visual Studio Tools for office.  With VSTO we can add new features to extend what Excel can already do.
 
 ## Course Outline
 1. VSTO Background
