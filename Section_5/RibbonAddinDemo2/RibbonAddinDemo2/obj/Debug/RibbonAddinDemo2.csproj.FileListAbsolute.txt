@@ -1,0 +1,13 @@
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\bin\Debug\RibbonAddinDemo2.dll
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\bin\Debug\RibbonAddinDemo2.pdb
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\bin\Debug\RibbonAddinDemo2.dll.manifest
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\bin\Debug\RibbonAddinDemo2.vsto
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\obj\Debug\RibbonAddinDemo2.csproj.AssemblyReference.cache
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\obj\Debug\RibbonAddinDemo2.Properties.Resources.resources
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\obj\Debug\RibbonAddinDemo2.Ribbon1.resources
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\obj\Debug\RibbonAddinDemo2.csproj.GenerateResource.cache
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\obj\Debug\RibbonAddinDemo2.csproj.CoreCompileInputs.cache
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\obj\Debug\RibbonAddinDemo2.csproj.CopyComplete
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\obj\Debug\RibbonAddinDemo2.dll
+C:\ExcelDevStudio\repos\RibbonAddinDemo2\RibbonAddinDemo2\obj\Debug\RibbonAddinDemo2.pdb
